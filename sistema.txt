@@ -1,3 +1,4 @@
 Sistema de check-in PrettyFlights
 Funcionalidade de emissão de cartão de embarque
 Versão pronta para produção
+Correção da validação de CPF
